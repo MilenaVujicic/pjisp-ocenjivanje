@@ -42,6 +42,9 @@ INSTALLED_APPS = [
     'corsheaders',
 
     'user',
+    'csv_file',
+    'user_request',
+    
     
 ]
 
